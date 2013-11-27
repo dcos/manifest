@@ -299,7 +299,7 @@
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="aospal" revision="kitkat" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="aospal" revision="kitkat" />
   <project path="kernel/lge/mako" name="android_kernel_google_msm" remote="aospal" revision="android-msm-mako-3.4-kitkat-mr0" />
-  <project path="libcore" name="android_libcore" remote="aospal" revision="kitkat" />
+  <project path="libcore" name="ModdedPA/android_libcore" remote="github" revision="kitkat" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
