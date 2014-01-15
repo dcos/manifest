@@ -23,6 +23,9 @@
   <remote  name="paranoid"
            fetch="ssh://git@bitbucket.org/paranoidandroid/" />
 
+  <remote  name="blobs"
+           fetch="https://github.com/ThankYouMario" />
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"
            review="review.cyanogenmod.org" />
