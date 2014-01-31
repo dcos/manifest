@@ -25,6 +25,9 @@
 
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario" />
+           
+  <remote name="TheMuppets"
+          fetch="https://github.com/TheMuppets" />
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"
