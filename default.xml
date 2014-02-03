@@ -416,7 +416,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
 
-  <project path="vendor/pa" name="android_vendor_pa" remote="aospal" revision="kitkat-legacy" >
+  <project path="vendor/pa" name="android_vendor_pa" remote="dcos" revision="kitkat-legacy" >
     <copyfile src="build.sh" dest="rom-build.sh" />
   </project>
 
