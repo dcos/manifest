@@ -414,12 +414,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-	<project path="device/lge/p880" name="android_device_lge_p880" remote="dcos" revision="kk" />
-	<project path="kernel/lge/x3" name="lge-kernel-p880" remote="dcos" revision="cm-11.0" />
-	<project path="vendor/lge" name="proprietary_vendor_lge" remote="dcos" revision="cm-11.0" />
-
-
-
+	<project path="device/lge/p880" name="android_device_lge_p880" remote="dcos" revision="remix-legacy" />
 
   <project path="vendor/pa" name="android_vendor_pa" remote="dcos" revision="kitkat-legacy" >
     <copyfile src="build.sh" dest="rom-build.sh" />
